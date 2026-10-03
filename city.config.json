@@ -1,0 +1,22 @@
+{
+  "username": "seikasan",
+  "seed": null,
+  "scales": {
+    "commits": 2500,
+    "pull_requests": 150,
+    "reviews": 200,
+    "recent_activity": 200,
+    "public_repositories": 40,
+    "stars": 300
+  },
+  "appearance": {
+    "min_height": 72,
+    "max_height": 330,
+    "min_buildings": 2,
+    "max_buildings": 9,
+    "min_window_light": 0.12,
+    "max_window_light": 0.88,
+    "accent": null
+  },
+  "overrides": {}
+}

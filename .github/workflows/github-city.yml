@@ -1,0 +1,32 @@
+name: Update GitHub City
+
+on:
+  schedule:
+    - cron: '20 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-city-art
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Validate generator
+        run: python -m unittest discover -s tests -v
+      - name: Generate city
+        env:
+          GH_CITY_TOKEN: ${{ secrets.GH_CITY_TOKEN }}
+          CITY_USERNAME: ${{ github.repository_owner }}
+        run: python github_city.py --username "$CITY_USERNAME" --output dist/city.svg
+      - name: Update image branch
+        run: bash publish_city.sh dist/city.svg

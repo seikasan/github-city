@@ -1,0 +1,24 @@
+{
+  "commits": 35,
+  "pull_requests": 2,
+  "reviews": 1,
+  "issues": 3,
+  "recent_activity": 4,
+  "active_days": 22,
+  "public_repositories": 3,
+  "stars": 0,
+  "username": "demo-city",
+  "source": "synthetic-example",
+  "period": {
+    "from": "2025-10-03",
+    "to": "2026-10-02",
+    "timezone": "UTC"
+  },
+  "languages": [
+    {
+      "name": "C#",
+      "color": "#178600",
+      "repositories": 3
+    }
+  ]
+}

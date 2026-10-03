@@ -1,0 +1,44 @@
+{
+  "commits": 4000,
+  "pull_requests": 240,
+  "reviews": 300,
+  "issues": 80,
+  "recent_activity": 280,
+  "active_days": 300,
+  "public_repositories": 65,
+  "stars": 800,
+  "username": "demo-city",
+  "source": "synthetic-example",
+  "period": {
+    "from": "2025-10-03",
+    "to": "2026-10-02",
+    "timezone": "UTC"
+  },
+  "languages": [
+    {
+      "name": "C#",
+      "color": "#178600",
+      "repositories": 20
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "repositories": 15
+    },
+    {
+      "name": "TypeScript",
+      "color": "#3178c6",
+      "repositories": 12
+    },
+    {
+      "name": "Rust",
+      "color": "#dea584",
+      "repositories": 10
+    },
+    {
+      "name": "ShaderLab",
+      "color": "#222c37",
+      "repositories": 8
+    }
+  ]
+}
