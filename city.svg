@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1200" viewBox="0 0 1400 1200" role="img" data-buildings="7" data-commits="279" data-pull-requests="11" aria-labelledby="title description">
     <title id="title">seikasan GitHub City</title>
     <desc id="description">A generated isometric night city for seikasan. 279 commit contributions and 11 opened pull requests in the reporting period; 7 buildings. Source: github-api. Exact inputs are recorded in city-data metadata.</desc>
-    <metadata id="city-data">{&quot;parameters&quot;:{&quot;accent&quot;:null,&quot;building_count&quot;:7,&quot;car_count&quot;:13,&quot;neon_buildings&quot;:4,&quot;rooftop_beacons&quot;:0,&quot;seed&quot;:299728168402701331,&quot;skyline_height&quot;:257.8,&quot;star_count&quot;:59,&quot;tree_count&quot;:14,&quot;window_light_rate&quot;:0.76},&quot;schema_version&quot;:1,&quot;statistics&quot;:{&quot;active_days&quot;:134,&quot;commits&quot;:279,&quot;issues&quot;:1,&quot;languages&quot;:[{&quot;color&quot;:&quot;#7355dd&quot;,&quot;name&quot;:&quot;C#&quot;,&quot;repositories&quot;:7},{&quot;color&quot;:&quot;#f1e05a&quot;,&quot;name&quot;:&quot;JavaScript&quot;,&quot;repositories&quot;:1},{&quot;color&quot;:&quot;#3572A5&quot;,&quot;name&quot;:&quot;Python&quot;,&quot;repositories&quot;:1},{&quot;color&quot;:&quot;#3178c6&quot;,&quot;name&quot;:&quot;TypeScript&quot;,&quot;repositories&quot;:3},{&quot;color&quot;:&quot;#dd1100&quot;,&quot;name&quot;:&quot;Wolfram Language&quot;,&quot;repositories&quot;:2}],&quot;period&quot;:{&quot;from&quot;:&quot;2025-10-15&quot;,&quot;timezone&quot;:&quot;UTC&quot;,&quot;to&quot;:&quot;2026-10-14&quot;},&quot;public_repositories&quot;:15,&quot;pull_requests&quot;:11,&quot;recent_activity&quot;:86,&quot;reviews&quot;:0,&quot;source&quot;:&quot;github-api&quot;,&quot;stars&quot;:3,&quot;username&quot;:&quot;seikasan&quot;}}</metadata>
+    <metadata id="city-data">{&quot;parameters&quot;:{&quot;accent&quot;:null,&quot;building_count&quot;:7,&quot;car_count&quot;:14,&quot;neon_buildings&quot;:4,&quot;rooftop_beacons&quot;:0,&quot;seed&quot;:299728168402701331,&quot;skyline_height&quot;:257.8,&quot;star_count&quot;:59,&quot;tree_count&quot;:14,&quot;window_light_rate&quot;:0.7649},&quot;schema_version&quot;:1,&quot;statistics&quot;:{&quot;active_days&quot;:135,&quot;commits&quot;:279,&quot;issues&quot;:1,&quot;languages&quot;:[{&quot;color&quot;:&quot;#7355dd&quot;,&quot;name&quot;:&quot;C#&quot;,&quot;repositories&quot;:7},{&quot;color&quot;:&quot;#f1e05a&quot;,&quot;name&quot;:&quot;JavaScript&quot;,&quot;repositories&quot;:1},{&quot;color&quot;:&quot;#3572A5&quot;,&quot;name&quot;:&quot;Python&quot;,&quot;repositories&quot;:1},{&quot;color&quot;:&quot;#3178c6&quot;,&quot;name&quot;:&quot;TypeScript&quot;,&quot;repositories&quot;:3},{&quot;color&quot;:&quot;#dd1100&quot;,&quot;name&quot;:&quot;Wolfram Language&quot;,&quot;repositories&quot;:2}],&quot;period&quot;:{&quot;from&quot;:&quot;2025-10-16&quot;,&quot;timezone&quot;:&quot;UTC&quot;,&quot;to&quot;:&quot;2026-10-15&quot;},&quot;public_repositories&quot;:15,&quot;pull_requests&quot;:11,&quot;recent_activity&quot;:89,&quot;reviews&quot;:0,&quot;source&quot;:&quot;github-api&quot;,&quot;stars&quot;:3,&quot;username&quot;:&quot;seikasan&quot;}}</metadata>
 <defs>
      <radialGradient id="sky"><stop stop-color="#172449"/><stop offset=".65" stop-color="#0b132d"/><stop offset="1" stop-color="#050a1a"/></radialGradient>
      <linearGradient id="glass" x1="0" y1="0" x2=".6" y2="1"><stop stop-color="#29466b"/><stop offset="1" stop-color="#111d38"/></linearGradient>
@@ -441,7 +441,7 @@
 <polygon points="699.71,444.88 704.91,447.88 704.91,438.88 699.71,435.88" fill="#ec7c73" opacity="0.9" data-window="52-53-0-1-5" data-lit="true"/>
 <polygon points="642.18,393.67 647.38,396.67 647.38,387.67 642.18,384.67" fill="#ffbc79" opacity="0.9" data-window="52-53-0-2-0" data-lit="true"/>
 <polygon points="653.69,400.31 658.88,403.31 658.88,394.31 653.69,391.31" fill="#29405a" opacity="0.4" data-window="52-53-0-2-1" data-lit="false"/>
-<polygon points="665.19,406.95 670.39,409.95 670.39,400.95 665.19,397.95" fill="#29405a" opacity="0.4" data-window="52-53-0-2-2" data-lit="false"/>
+<polygon points="665.19,406.95 670.39,409.95 670.39,400.95 665.19,397.95" fill="#ffd898" opacity="0.9" data-window="52-53-0-2-2" data-lit="true"/>
 <polygon points="676.70,413.60 681.89,416.60 681.89,407.60 676.70,404.60" fill="#ec7c73" opacity="0.9" data-window="52-53-0-2-3" data-lit="true"/>
 <polygon points="688.20,420.24 693.40,423.24 693.40,414.24 688.20,411.24" fill="#ffe8ae" opacity="0.9" data-window="52-53-0-2-4" data-lit="true"/>
 <polygon points="699.71,426.88 704.91,429.88 704.91,420.88 699.71,417.88" fill="#ffbc79" opacity="0.9" data-window="52-53-0-2-5" data-lit="true"/>
@@ -802,6 +802,17 @@
 <circle cx="602.99" cy="594.99" r="1.8" fill="#fff0ba" filter="url(#glow)"/>
 <circle cx="608.89" cy="598.40" r="1.8" fill="#fff0ba" filter="url(#glow)"/>
 <path d="M 622.92 598.00 L 636.78 606.00" fill="none" stroke="#b3d8d8" stroke-width="2" stroke-linecap="round" opacity=".2"/>
+<polygon points="465.31,586.20 491.29,601.20 476.57,609.70 450.58,594.70" fill="#080f20" />
+<polygon points="455.78,594.00 476.57,606.00 476.57,599.00 455.78,587.00" fill="#294355" stroke="#223654" stroke-width="0.7" />
+<polygon points="486.09,600.50 476.57,606.00 476.57,599.00 486.09,593.50" fill="#152839" stroke="#223654" stroke-width="0.7" />
+<polygon points="465.31,581.50 486.09,593.50 476.57,599.00 455.78,587.00" fill="#96aabe" stroke="#223654" stroke-width="1" />
+<polygon points="462.88,588.90 473.27,594.90 473.27,589.90 462.88,583.90" fill="#142b40" stroke="#223654" stroke-width="0.7" />
+<polygon points="478.99,591.60 473.27,594.90 473.27,589.90 478.99,586.60" fill="#17384c" stroke="#223654" stroke-width="0.7" />
+<polygon points="468.60,580.60 478.99,586.60 473.27,589.90 462.88,583.90" fill="#96aabe" stroke="#223654" stroke-width="1" />
+<polygon points="469.16,581.27 477.47,586.07 472.71,588.82 464.40,584.02" fill="#7fb4c7" />
+<circle cx="484.38" cy="598.49" r="1.8" fill="#fff0ba" filter="url(#glow)"/>
+<circle cx="478.47" cy="601.90" r="1.8" fill="#fff0ba" filter="url(#glow)"/>
+<path d="M 483.06 604.75 L 496.92 612.75" fill="none" stroke="#b3d8d8" stroke-width="2" stroke-linecap="round" opacity=".2"/>
 <polygon points="926.90,591.70 941.62,600.20 915.64,615.20 900.92,606.70" fill="#080f20" />
 <polygon points="906.11,606.00 915.64,611.50 915.64,604.50 906.11,599.00" fill="#294355" stroke="#223654" stroke-width="0.7" />
 <polygon points="936.42,599.50 915.64,611.50 915.64,604.50 936.42,592.50" fill="#152839" stroke="#223654" stroke-width="0.7" />
@@ -1162,7 +1173,7 @@
 <polygon points="960.75,643.60 965.95,646.60 965.95,637.60 960.75,634.60" fill="#b2a2ec" opacity="0.9" data-window="422-51-0-0-2" data-lit="true"/>
 <polygon points="972.63,650.45 977.83,653.45 977.83,644.45 972.63,641.45" fill="#ffbc79" opacity="0.9" data-window="422-51-0-0-3" data-lit="true"/>
 <polygon points="984.51,657.31 989.70,660.31 989.70,651.31 984.51,648.31" fill="#29405a" opacity="0.4" data-window="422-51-0-0-4" data-lit="false"/>
-<polygon points="996.38,664.17 1001.58,667.17 1001.58,658.17 996.38,655.17" fill="#29405a" opacity="0.4" data-window="422-51-0-0-5" data-lit="false"/>
+<polygon points="996.38,664.17 1001.58,667.17 1001.58,658.17 996.38,655.17" fill="#ffbc79" opacity="0.9" data-window="422-51-0-0-5" data-lit="true"/>
 <polygon points="937.00,611.88 942.20,614.88 942.20,605.88 937.00,602.88" fill="#ffbc79" opacity="0.9" data-window="422-51-0-1-0" data-lit="true"/>
 <polygon points="948.88,618.74 954.07,621.74 954.07,612.74 948.88,609.74" fill="#b2a2ec" opacity="0.9" data-window="422-51-0-1-1" data-lit="true"/>
 <polygon points="960.75,625.60 965.95,628.60 965.95,619.60 960.75,616.60" fill="#ffbc79" opacity="0.9" data-window="422-51-0-1-2" data-lit="true"/>
@@ -1208,7 +1219,7 @@
 <polygon points="937.00,485.88 942.20,488.88 942.20,479.88 937.00,476.88" fill="#ffbc79" opacity="0.9" data-window="422-51-0-8-0" data-lit="true"/>
 <polygon points="948.88,492.74 954.07,495.74 954.07,486.74 948.88,483.74" fill="#ffbc79" opacity="0.9" data-window="422-51-0-8-1" data-lit="true"/>
 <polygon points="960.75,499.60 965.95,502.60 965.95,493.60 960.75,490.60" fill="#29405a" opacity="0.4" data-window="422-51-0-8-2" data-lit="false"/>
-<polygon points="972.63,506.45 977.83,509.45 977.83,500.45 972.63,497.45" fill="#29405a" opacity="0.4" data-window="422-51-0-8-3" data-lit="false"/>
+<polygon points="972.63,506.45 977.83,509.45 977.83,500.45 972.63,497.45" fill="#ffbc79" opacity="0.9" data-window="422-51-0-8-3" data-lit="true"/>
 <polygon points="984.51,513.31 989.70,516.31 989.70,507.31 984.51,504.31" fill="#ffbc79" opacity="0.9" data-window="422-51-0-8-4" data-lit="true"/>
 <polygon points="996.38,520.17 1001.58,523.17 1001.58,514.17 996.38,511.17" fill="#ffd898" opacity="0.9" data-window="422-51-0-8-5" data-lit="true"/>
 <path d="M 927.76 610.50 L 1010.90 658.50" fill="none" stroke="#476078" stroke-width="0.55" stroke-linecap="round" opacity=".42"/>
